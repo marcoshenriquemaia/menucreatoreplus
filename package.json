@@ -1,0 +1,11 @@
+{
+  "name": "menucreatoreplus",
+  "version": "0.0.2",
+  "description": "Criação de menu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marcos Maia",
+  "license": "MIT"
+}
